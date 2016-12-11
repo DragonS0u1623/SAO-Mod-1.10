@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "saomod:Armors/Midnight_pants",
+        "layer1": "saomod:Armors/Midnight_pants_overlay"
+    }
+}

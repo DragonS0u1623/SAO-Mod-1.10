@@ -1,0 +1,68 @@
+//Tools\\
+item.Elucidator.name=Elucidator
+item.DarkRepulsor.name=Dark Repulsor
+item.Rapier.name=Rapier
+item.LongSword.name=Longsword
+item.SteelDagger.name=Steel Dagger
+item.Lambient_Light.name=Lambient Light
+item.Liberator_Sword.name=Liberator Sword
+item.Liberator_Shield.name=Liberator Shield
+item.War_Axe.name=War_Axe
+item.Guilty_Thorn.name=Guilty Thorn
+item.Karakurenai.name=Karakurenai
+item.Throwing_Pick.name=Throwing Pick
+
+//Items\\
+item.PracticeSword.name=Practice Sword
+item.Teleport_Crystal.name=Teleport Crystal
+
+//Misc\\
+item.Fork.name=Fork
+item.Knife.name=Knife
+item.Woodbucket.name=Wood Bucket
+item.Steelbucket.name=Steel Bucket
+item.Baton.name=Baton
+
+//Armors\\
+/Starter\
+item.light_helmet.name=Light Helmet
+item.light_cuirass.name=Light Cuirass
+item.light_pants.name=Light Pants
+item.light_boots.name=Light Boots
+/Kirito\
+item.cloak_of_midnight.name=Cloak of Midnight
+item.midnight_pants.name=Midnight Pants
+item.midnight_boots.name=Midnight Boots
+item.blackwyrm_cloak.name=Blackwyrm Cloak
+item.blackwyrm_pants.name=Blackwyrm Pants
+item.blackwrm_boots.name=Blackwyrm Boots
+/Asuna\
+item.asunas_chest.name=Asuna's Chestpiece
+item.asunas_pants.name=Asuna's Pants
+item.asunas_boots.name=Asuna's Boots
+
+//CreativeTabs\\
+itemGroup.tabSAO_Blocks=Sword Art Online Blocks
+itemGroup.tabSAO_Items=Sword Art Online Items
+itemGroup.tabSAO_Tools=Sword Art Online Tools
+itemGroup.tabSAO_Armor=Sword Art Online Armor
+itemGroup.tabSAO_Misc=Sword Art Online Misc.
+itemGroup.tabSAO_Food=Sword Art Online Food
+
+//Blocks\\
+tile.AincradPortalBlock.name=Aincrad Portal Block
+tile.Dungeon_Floor.name=Dungeon Floor
+
+//Foods\\
+item.Sandwich.name=Sandwich
+item.Asunas_Sandwich.name=Asuna's Sandwich
+
+//Crafting Materials\\
+tile.BlackSteelOre.name=Black Steel Ore
+tile.CrystallineOre.name=Crystalline Ore
+item.CrystallineIngot.name=Crystalline Ingot
+item.BlackSteelIngot.name=Black Steel Ingot
+item.BlackLeather.name=Black Leather
+item.SteelIngot.name=Steel Ingot
+item.AlfMetal.name=Alf Metal
+item.SAOLeather.name=SAO Leather
